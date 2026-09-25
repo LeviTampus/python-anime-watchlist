@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Scratch files
+throw.py
+
+# Local watchlist data (personal, not tracked)
+data/watchlist.json
