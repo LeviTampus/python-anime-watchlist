@@ -16,3 +16,7 @@ throw.py
 
 # Local watchlist data (personal, not tracked)
 data/watchlist.json
+
+# Personal / mentor docs (not tracked)
+AGENTS.md
+PROJECT.md
